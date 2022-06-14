@@ -6,7 +6,7 @@ https://cemkgrbz.github.io/uib-interactions-lighting-cemkgrbz/
 
 Let's try to recreate the lighting animation shown below:
 
-![example](img/mockup.gif)
+![example](img/mockup.gif) 
 
 ## Objectives / Info
 
